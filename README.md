@@ -2,6 +2,6 @@
 
 This portfolio includes some examples of my work in Python.
 
-[Loop example](loop.md.webarchive)
+[Loop example](loop.md)
 
 Questions? [sarah.harrison@dal.ca](mailto:sarah.harrison@dal.ca)
