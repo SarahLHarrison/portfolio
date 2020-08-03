@@ -1,5 +1,5 @@
 ### Text Examples
-[A Loop on partcipant data](loop.md)
+[A Loop on partcipant data](loop.md)  
 [Seaborn Barplot](errorplot.md)
 
 ### Demo Video Examples
