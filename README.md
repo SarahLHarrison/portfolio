@@ -1,5 +1,6 @@
 ### Text Examples
 [A Loop on partcipant data](loop.md)
+[Seaborn Barplot](errorplot.md)
 
 ### Demo Video Examples
 [Using Seaborn to create an appealing graph](Demo 3 _ Sarah Harrison.webm)
