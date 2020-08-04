@@ -1,6 +1,6 @@
 ### Summary Stats
 
-This is an exmaple of calcuating summary stats on a variable in a data frame, and then adding them to a new data frame for easy display.
+This is an example of calcuating summary stats on a variable in a DataFrame, and then adding them to a new DataFrame for easy display.
 
 
 ```python
