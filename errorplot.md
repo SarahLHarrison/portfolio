@@ -1,6 +1,6 @@
 ### Seaborn Bar Plot
 
-In this example, I caulated the error rate by condition of experiment. I then plotted the error rates of all four conditions on a well formatted barplot, using Seaborn.
+In this example, I calculated the error rate by condition of the experiment. I then plotted the error rates of all four conditions on a well formatted barplot, using Seaborn.
 
 
 ```python
