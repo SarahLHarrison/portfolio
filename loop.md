@@ -1,6 +1,6 @@
 ### Loop Example
 
-Here is an example of a loop that I wrote to read in parcipant data files and then calculate means for two levels of a variable for each partcipant.
+Here is an example of a loop that I wrote to read in participant data files and then calculate means for two levels of a variable for each partcipant.
 
 
 ```python
