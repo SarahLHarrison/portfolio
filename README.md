@@ -5,7 +5,7 @@
 [Seaborn Barplot](errorplot.md)   
 
 ### Video Examples
-[Using Seaborn to create an appealing graph](SeabornDemo.mp4)
+[Using Seaborn to create an appealing graph](Demo1.mp4)
 
 
 Questions? [sarah.harrison@dal.ca](mailto:sarah.harrison@dal.ca)
