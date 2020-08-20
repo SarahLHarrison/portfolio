@@ -4,8 +4,8 @@
 [Cleaning on a pandas DataFrame](datacleaning.md)   
 [Seaborn Barplot](errorplot.md)   
 
-### Video Examples
-[Using Seaborn to create an appealing graph](Demo1.mp4)
+### Video Demo Examples
+[Using Seaborn to create an appealing graph](SeabornDemo.mp4)
 
 
 Questions? [sarah.harrison@dal.ca](mailto:sarah.harrison@dal.ca)
