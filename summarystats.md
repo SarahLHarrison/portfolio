@@ -1,6 +1,10 @@
 ### Summary Stats
 
-This is an example of calcuating summary stats on a variable in a DataFrame, and then adding them to a new DataFrame for easy display.
+This is an exmaple of calcuating summary stats on a variable in a data frame, and then adding them to a new data frame for easy display. This new DataFrame also put the data in a better format for later plotting. 
+
+It was worked on in collboration with Isaac Zacher, a classmate.
+
+
 
 
 ```python
@@ -22,3 +26,5 @@ results['RT(max)'] = rt_max['rt']
 results['RT(median'] = rt_['rt']
 results = results.transpose()
 ```
+
+![](Table.png)
