@@ -8,9 +8,6 @@ It was worked on in collboration with Isaac Zacher, a classmate.
 
 
 ```python
-import pandas as pd
-import numpy as np
-
 #Calculate summary stats for each condition
 rt_mean = data.groupby(['flankers', 'simon'])[['rt']].mean().round(2)
 rt_std = data.groupby(['flankers', 'simon'])[['rt']].std().round(2)

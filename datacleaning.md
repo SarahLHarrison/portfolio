@@ -4,10 +4,6 @@ In this example, I cleaned reaction time (RT) data from an experiment to prepare
 
 
 ```python
-import pandas as pd
-import numpy as np
-from scipy.stats import zscore
-
 #read in data
 df = pd.read_csv(in_file, sep='\t')
 
