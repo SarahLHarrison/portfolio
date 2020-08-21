@@ -24,7 +24,6 @@ results['RT(mean)'] = rt_mean['rt']
 results['RT(min)'] = rt_min['rt']
 results['RT(max)'] = rt_max['rt']
 results['RT(median'] = rt_['rt']
-results = results.transpose()
 ```
 
 ![](Table.png)

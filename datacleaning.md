@@ -1,6 +1,6 @@
 ### Data Cleaning
 
-In this example, I cleaned reaction time (RT) data from an experiment to prepare it for further analysis. 
+In this example, I cleaned reaction time (RT) data from an experiment to prepare it for further analysis. Cleaning involved dropping specific rows and removing outliers based on z-score.
 
 
 ```python
