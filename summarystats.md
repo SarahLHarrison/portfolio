@@ -20,7 +20,7 @@ results['RT(std)'] = rt_std['rt']
 results['RT(mean)'] = rt_mean['rt']
 results['RT(min)'] = rt_min['rt']
 results['RT(max)'] = rt_max['rt']
-results['RT(median'] = rt_['rt']
+results['RT(median)'] = rt_['rt']
 ```
 
 ![](Table.jpeg)
