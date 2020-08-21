@@ -4,8 +4,9 @@
 [Cleaning on a pandas DataFrame](datacleaning.md)   
 [Seaborn Barplot](errorplot.md)   
 
-### Video Examples
-[Using Seaborn to create an appealing graph](SeabornDemo.mp4)
+### Video Demo Examples
+[Using Seaborn to create an appealing graph](https://youtu.be/Z6xQThy9lKI)  
+[Tutorial on using Git and Terminal to push to GitHub](https://youtu.be/h8Zp_E5w318)
 
 
 Questions? [sarah.harrison@dal.ca](mailto:sarah.harrison@dal.ca)
