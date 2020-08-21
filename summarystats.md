@@ -23,4 +23,4 @@ results['RT(max)'] = rt_max['rt']
 results['RT(median'] = rt_['rt']
 ```
 
-![](Table.png)
+![](Table.jpeg)
