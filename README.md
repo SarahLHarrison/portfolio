@@ -2,7 +2,7 @@
 [A Loop on partcipant data](loop.md)   
 [Calculating Summary Stats](summarystats.md)  
 [Cleaning on a pandas DataFrame](datacleaning.md)   
-[Heat Maps for Single Cell Data](heatmaps.md) 
+[Heat Maps for Single Cell Data](heatmaps.md)   
 [Seaborn Barplot](errorplot.md)   
 
 ### Video Demo Examples
