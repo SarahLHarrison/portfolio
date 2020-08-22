@@ -1,9 +1,9 @@
 ### Text Examples
 [A Loop on participant data](loop.md)   
-[Calculating Summary Stats](summarystats.md)  
+[Calculating summary stats](summarystats.md)  
 [Cleaning on a pandas DataFrame](datacleaning.md)   
-[Heat Maps for Single Cell Data](heatmaps.md)   
-[Seaborn Barplot](errorplot.md)   
+[Heat maps for single cell data](heatmaps.md)   
+[Seaborn barplot](errorplot.md)   
 
 ### Video Demo Examples
 [Using Seaborn to create an appealing graph](https://youtu.be/Z6xQThy9lKI)  
