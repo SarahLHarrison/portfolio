@@ -1,6 +1,6 @@
 ### Heat Maps
 
-I created these heat maps to show single unit spiking data. Each row of heat maps is a different neuron and each column is an experimental condition. Time is shown on the x axis, contrast level on the y axis, and colour indicates the number of spikes. This example uses for loops to generate each heat maps and plots using Matplotlib.
+I created these heat maps to show single unit spiking data. Each row of heat maps is a different neuron and each column is an experimental condition. Time is shown on the x-axis, contrast level on the y-axis, and colour indicates the number of spikes. This example uses for loops to generate each heat maps and plots using Matplotlib.
 
 
 ```python
